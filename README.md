@@ -9,9 +9,9 @@ This project explores a transactions dataset to uncover patterns of fraudulent a
 - Visualize insights using Python (Pandas, Seaborn, Matplotlib) and summarize findings in Power BI and PowerPoint.
 
 ## Files
-- `notebook/eda_transaction_data.ipynb` – Complete EDA and visualizations.  
-- `powerpoint/Fraud_and_Transactions_Analysis.pptx` – Presentation slides summarizing insights.  
-- `powerbi/Fraud_and_Transactions_data_Report.pbix` – Interactive Power BI dashboard.  
+- `eda_transaction_data.ipynb` – Complete EDA and visualizations.  
+- `Fraud_and_Transactions_Analysis.pptx` – Presentation slides summarizing insights.  
+- `Fraud_and_Transactions_data_Report.pbix` – Interactive Power BI dashboard.  
 
 ## Key Insights
 - Monthly transaction trends, including volumes, refunds, and average amounts.  
