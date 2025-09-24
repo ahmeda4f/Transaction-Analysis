@@ -14,7 +14,7 @@ This project explores a transactions dataset to uncover patterns of fraudulent a
 
 ## Important Links
 - **Dataset (Kaggle)**: [Transactions Fraud Dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)  
-- **Power BI Report**: [Download Dashboard](https://drive.google.com/file/d/1Wz0Fa-8nijm3gF_5Ctie6AvF3xzhePN0/view?usp=sharing)
+- **Power BI Report**: [Download Report](https://drive.google.com/file/d/1Wz0Fa-8nijm3gF_5Ctie6AvF3xzhePN0/view?usp=sharing)
 
 ## Key Insights
 - Monthly transaction trends, including volumes, refunds, and average amounts.  
